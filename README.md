@@ -7,7 +7,7 @@
 ### インストール
 - このブラウザプラグインがおすすめです: https://add0n.com/stylus.html
 - その後、[こちらのページ](https://userstyles.world/style/7074/)にある「Install」ボタンをクリックするか、ここのページにある`messenger-lazy-dark.css`ファイルのページにある「Raw」ボタンかクリックするどちらでもすぐStylusに例のstylesheetが発見されます
-- 新しいタブにstyle設定がある好みに設定してできます
+- 新しいタブにstyle設定がある好みに設定ができます
 
 ### 特徴:
 - **またstyle設定を変更したいなら、Stylusの管理ページにある例のstylesheetの歯車みたいのアイコンをクリックすれば、そのstylesheet設定がでます**
